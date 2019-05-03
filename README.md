@@ -10,14 +10,14 @@ Therefore this project assesses the Vue.js framework in a direct comparison with
 
 **Assessment results and Performance Calculations (Chrome Developer Tool methodology)** 
 
-| Test                        | ES6 todo      | Vue todo        |
-| --------------------------- | ------------- | --------------- |
-| Lines of code               | 300           | 100             |
-| Time for load(ms)           | 14-70         | 226             |
-| Time for add item(ms)       | 2-5           | 34              |
-| Switch class of 1 element   | <1            | 26              |
-| Switch class of 10 elements | 6             | 35              |
-| Delete 10 element from DOM  | 3             | 47              |
+| Test                            | ES6 todo      | Vue todo        |
+| ---------------------------     | ------------- | --------------- |
+| Lines of code(no.)              | 300           | 100             |
+| Time for load(ms)               | 14-70         | 226             |
+| Time for add item(ms)           | 2-5           | 34              |
+| Switch class of 1 element(ms)   | <1            | 26              |
+| Switch class of 10 elements(ms) | 6             | 35              |
+| Delete 10 element from DOM(ms)  | 3             | 47              |
 
 Previously, tests have been done with other frameworks (eg React.js) In comparison, Vue.js is quite performant and it has a very low overhead. However, it can clearly be seen that it is still extremely slow compared to highly optimized Javascript. 
 
