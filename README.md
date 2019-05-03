@@ -23,7 +23,7 @@ Previously, tests have been done with other frameworks (eg React.js) In comparis
 
 Having said that, the numbers are not too bad. For example, badly written Javascript produced results in the above tests for class switching and add item tests of around 22ms. 
 
->>Vue.js is comparable to extremely poorly programmed Javascript.
+>>Vue.js is comparable to badly programmed Javascript.
 
 Is that something to be proud of??? This is the crux of the issue. In terms of time taken to code (lines of code and the ease of development), the numbers are impressive. Vue.js required only 100 lines of code and took a matter of hours to build. With its two way data-binding, watchers, computed properties and event handlers it literally flies in the developer convenience department. The conclusion can only be that it stands head and shoulders above React.js and Angular4+. Its speed is also better than the aforementioned frameworks.
 
