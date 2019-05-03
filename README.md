@@ -2,7 +2,7 @@
 
 ## Contribution to [todoMVC.com](http://todomvc.com) 
 
-Comparison of todoMVC project using Vue.js Framework. (Vue version obviously not in MVC architecture) 
+Comparison of todoMVC project using Vue.js Framework. (note: Vue is not MVC architecture) 
 
 The todolist app has been regarded by many developers as a good baseline by which to gauge performance. Many frameworks claim superior performance, claiming the virtual DOM speeds up reneders. Previously, I have shown this to be complete bunkum using various methods and explanations of how the DOM and render tree actually function. Frameworks do, however, provide convenience. 
 
