@@ -13,11 +13,11 @@ Therefore this project assesses the Vue.js framework in a direct comparison with
 | Test                        | ES6 todo      | Vue todo        |
 | --------------------------- | ------------- | --------------- |
 | Lines of code               | 300           | 100             |
-| Time for load(ms)           | 14            | 226             |
-| Time for add item(ms)       | 2             | 34              |
-| Switch class on 1 element   | 2             | 26              |
-| Switch class of 10 elements | 2             | 35              |
-| Delete 10 element from DOM  | 2             | 35              |
+| Time for load(ms)           | 14-70         | 226             |
+| Time for add item(ms)       | 2-5           | 34              |
+| Switch class on 1 element   | <1            | 26              |
+| Switch class of 10 elements | 6             | 35              |
+| Delete 10 element from DOM  | 3             | 47              |
 
 Previously, tests have been done with other frameworks (eg React.js) In comparison, Vue.js is quite performant and it has a very low overhead. However, it can clearly be seen that it is still extremely slow compared to highly optimized Javascript. 
 
@@ -31,6 +31,6 @@ However, for competent and experienced coders, does this convenience really make
 
 In conclusion, then, Vue is a solid framework with some cool features. For a development team who want to trade performance for a pre-built structure (and where the team lacks the experience ... or desire ... to build a custom architecture) Vue is probably the best of the frameworks to date. However, it must be mentioned that any claims as to performance when made to paying customers will likely be false. 
 
-Simply put, if you had told a client prior to contact that their system would potentially run 20 times slower but would be slightly faster to build, would they really have been willing to pay as much for it. In essence, but for the false claims about performance of frameworks, would they signed the contract.
+Simply put, if you had told a client prior to contact that their system would potentially run up to 20 times slower but would be slightly faster to build, would they really have been willing to pay as much for it. In essence, but for the false claims about performance of frameworks, would they signed the contract.
 
 **The crux of the issue is therefore — always be honest with clients. I fear there could be law suits against some development firms making inaccurate claims based on essentially developer hearsay from the internet regarding the performance of JS frameworks.**
