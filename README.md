@@ -6,7 +6,9 @@ Comparison of todoMVC project using Vue.js Framework. (Vue version obviously not
 
 The todolist app has been regarded by many developers as a good baseline by which to gauge performance. Many frameworks claim superior performance, claiming the virtual DOM speeds up reneders. Previously, I have shown this to be complete bunkum using various methods and explanations of how the DOM and render tree actually function. Frameworks do, however, provide convenience. 
 
-Therefore this project assesses the Vue.js framework in a direct comparison with native ES6 (vanilla JS).      
+Therefore this project assesses the Vue.js framework in a direct comparison with native ES6 (vanilla JS). 
+
+The version of the todo app that I have written for this performance assessment runs approximately 2 times faster than the one created by Vue creator Evan You. Thus, it is reasonable to assume that this is a fair test of optimum Vue performance vs optimum ES6 perfromance.       
 
 **Assessment results and Performance Calculations (Chrome Developer Tool methodology)** 
 
