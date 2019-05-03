@@ -33,4 +33,4 @@ In conclusion, then, Vue is a solid framework with some cool features. For a dev
 
 Simply put, if you had told a client prior to contact that their system would potentially run 20 times slower but would be slightly faster to build, would they really have been willing to pay as much for it. In essence, but for the false claims about performance of frameworks, would they signed the contract.
 
-**The crux of the issue is therefore — always be honest with your clients. I fear there could be law suits against some development firms making inaccurate claims based on essentially developer hearsay from the internet regarding the performance of JS frameworks.**
+**The crux of the issue is therefore — always be honest with clients. I fear there could be law suits against some development firms making inaccurate claims based on essentially developer hearsay from the internet regarding the performance of JS frameworks.**
