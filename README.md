@@ -29,7 +29,7 @@ Is that something to be proud of??? This is the crux of the issue. In terms of t
 
 However, for competent and experienced coders, does this convenience really make up for the 10-20 fold loss in performance? Writing state management routines isn't that difficult and whilst it may be claimed that as the project grows the complexity will also scale, the fact is that Vue.js comes with pitfalls with scale, too. One set of problems is just traded for another.     
 
-In conclusion, then, Vue is a solid framework with some cool features. I will certainly be using it. Vue is probably the best of the frameworks to date. The only caveat is that any claims as to performance when made to paying customers must be very carefully qualified. 
+In conclusion, then, Vue is a solid framework with some cool features. I will certainly be using it. In my opinion, Vue is probably the best of the frameworks to date. The only caveat is that any claims as to performance when made to paying customers must be very carefully qualified. 
 
 >>Vue is fast compared to other frameworks, it is not fast in the absolute sense ... in fact it is very slow compared to good code. 
 
