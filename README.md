@@ -15,7 +15,7 @@ Therefore this project assesses the Vue.js framework in a direct comparison with
 | Lines of code               | 300           | 100             |
 | Time for load(ms)           | 14-70         | 226             |
 | Time for add item(ms)       | 2-5           | 34              |
-| Switch class on 1 element   | <1            | 26              |
+| Switch class of 1 element   | <1            | 26              |
 | Switch class of 10 elements | 6             | 35              |
 | Delete 10 element from DOM  | 3             | 47              |
 
