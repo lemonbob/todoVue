@@ -19,7 +19,7 @@ Therefore this project assesses the Vue.js framework in a direct comparison with
 | Switch class of 10 elements(ms) | 6             | 35              |
 | Delete 10 element from DOM(ms)  | 3             | 47              |
 
-Previously, tests have been done with other frameworks (eg React.js) In comparison, Vue.js is quite performant and it has a very low overhead. However, it can clearly be seen that it is still extremely slow compared to highly optimized Javascript. 
+Previously, tests have been done with other frameworks (e.g. React.js). In comparison, Vue.js is quite performant and it has a very low overhead. However, it can clearly be seen that it is still extremely slow compared to highly optimized Javascript. 
 
 Having said that, the numbers are not too bad. For example, badly written Javascript produced results in the above tests for class switching and add item tests of around 22ms. 
 
