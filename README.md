@@ -31,7 +31,7 @@ However, for competent and experienced coders, does this convenience really make
 
 In conclusion, then, Vue is a solid framework with some cool features. I will certainly be using it. Vue is probably the best of the frameworks to date. The only caveat is that any claims as to performance when made to paying customers must be very carefully qualified. 
 
->>Vue is fast compared to other frameworks, it is not fast ... in fact it is still very slow compared to good code. 
+>>Vue is fast compared to other frameworks, it is not fast in the absolute sense ... in fact it is very slow compared to good code. 
 
 Simply put, if you had told a client prior to contact that their system would potentially run up to 20 times slower than optimized JS but would be slightly faster to build in a framework, would they really have been willing to pay as much for it. In essence, but for the false claims about performance of frameworks, would they have signed the contract.
 
