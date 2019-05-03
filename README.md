@@ -33,6 +33,6 @@ In conclusion, then, Vue is a solid framework with some cool features. I will ce
 
 >>Vue is fast compared to other frameworks, it is not fast in the absolute sense ... in fact it is very slow compared to good code. 
 
-Simply put, if you had told a client prior to contact that their system would potentially run up to 20 times slower than optimized JS but would be slightly faster to build in a framework, would they really have been willing to pay as much for it. In essence, but for the false claims about performance of frameworks, would they have signed the contract.
+Simply put, if you had told a client prior to contract that their system would potentially run up to 20 times slower than optimized JS but would be slightly faster to build in a framework, would they really have been willing to pay as much for it. In essence, but for the false claims about performance of frameworks, would they have signed the contract.
 
 **The crux of the issue is therefore — always be honest with clients. I fear there could be law suits against some development firms making inaccurate claims based on essentially developer hearsay from the internet regarding the performance of JS frameworks.**
